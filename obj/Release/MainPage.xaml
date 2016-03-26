@@ -1,0 +1,89 @@
+﻿<Page
+    x:Class="listview_from_json_tutorial.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:listview_from_json_tutorial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#33B5A8"/>
+            <GradientStop Color="#dddddd" Offset="1"/>
+        </LinearGradientBrush>
+    </Page.Background>
+
+
+
+    <Grid>
+
+        <ListView x:Name="list" Margin="5,5">
+
+
+            <ListView.Resources>
+
+
+
+                <DataTemplate x:Key="myCell">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.RowSpan="3" Grid.ColumnSpan="1">
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Height="30" Text="{Binding votes}" Padding="5" TextWrapping="WrapWholeWords" FontWeight="ExtraBold"  FontSize="20" Foreground="Red" Width="320"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Height="120" HorizontalAlignment="Stretch" TextTrimming="WordEllipsis" LineHeight="25" MaxHeight="120" Text="{Binding country}" Padding="5" TextWrapping="WrapWholeWords" FontWeight="Bold" FontSize="20" Foreground="Black" Width="300"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Height="30" Text="{Binding retailer}" Padding="5" TextWrapping="WrapWholeWords" FontWeight="Normal" FontSize="20" Foreground="Black" Width="320"/>
+                            </StackPanel>
+                        </StackPanel>
+                       
+                                <Border  Grid.Column="1" Margin="5,15" BorderBrush="#dddddd" CornerRadius="6" Padding="5" BorderThickness="1">
+
+                                    <Image Source="{Binding imageURL}" Width="Auto" Height="Auto" />
+                                </Border>
+                                
+                        
+                    </Grid>
+                </DataTemplate>
+
+
+
+            </ListView.Resources>
+
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Padding" Value="10"/>
+                    <Setter Property="Margin" Value="2"/>
+                    <Setter Property="Height" Value="160"/>
+
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ListViewItem">
+                                <Border Name="Border"
+                                       CornerRadius="6"
+                                       Background="#ffffff">
+                                    <ContentPresenter />
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <StaticResource ResourceKey="myCell"/>
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+
+
+    </Grid>
+</Page>
+

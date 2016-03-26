@@ -1,0 +1,72 @@
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\App.xbf
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\MainPage.xbf
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.xr.xml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.exe
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\resources.pri
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\AppxManifest.xml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.build.appxrecipe
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\App.g.i.cs
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\App.g.cs
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\MainPage.g.i.cs
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\MainPage.g.cs
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\XamlTypeInfo.g.cs
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\App.xaml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\MainPage.xaml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\App.xbf
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\MainPage.xbf
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\XamlSaveStateFile.xml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.exe
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\priconfig.xml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\priconfig.xml.intermediate
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\layout.resfiles
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\layout.resfiles.intermediate
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\resources.resfiles
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\resources.resfiles.intermediate
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\pri.resfiles
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\pri.resfiles.intermediate
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\qualifiers.txt
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\qualifiers.txt.intermediate
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\ProjectArchitectures.txt
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.csprojResolveAssemblyReference.cache
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\Newtonsoft.Json.dll
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\bin\Debug\Newtonsoft.Json.xml
+c:\users\andrea\documents\visual studio 2013\Projects\listview_from_json_tutorial\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.csproj.GenerateResource.Cache
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\App.xbf
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\MainPage.xbf
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.xr.xml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.exe
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.pdb
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\resources.pri
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\AppxManifest.xml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\listview_from_json_tutorial.build.appxrecipe
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.csprojResolveAssemblyReference.cache
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\App.g.i.cs
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\App.g.cs
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\MainPage.g.i.cs
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\MainPage.g.cs
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\XamlTypeInfo.g.cs
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\App.xaml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\MainPage.xaml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\App.xbf
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\MainPage.xbf
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\XamlSaveStateFile.xml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.exe
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.pdb
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\listview_from_json_tutorial.csproj.GenerateResource.Cache
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\priconfig.xml
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\priconfig.xml.intermediate
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\layout.resfiles
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\layout.resfiles.intermediate
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\resources.resfiles
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\resources.resfiles.intermediate
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\pri.resfiles
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\pri.resfiles.intermediate
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\qualifiers.txt
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\qualifiers.txt.intermediate
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Dropbox\College Work Year 4\Semester 2\Project\WindowsPhone\listview_from_json_tutorial\obj\Debug\ProjectArchitectures.txt
